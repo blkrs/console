@@ -125,4 +125,4 @@ npm version patch --no-git-tag-version
 
 ```
 
-Running "npm version patch" without --no-git-tag-version option will result in creating a new commit and git tag 
+Running "npm version patch" without --no-git-tag-version option will result in creating a new commit and git  tag 
